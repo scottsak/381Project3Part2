@@ -1,3 +1,9 @@
+'''
+EE 281 Project 3 - Part 2
+Scott Sakurai
+018497139
+'''
+
 step  = []
 
 import random 
